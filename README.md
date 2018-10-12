@@ -12,5 +12,5 @@ npm start
 
 ## Built With
 
-create-react-app
-tachyons
+- [create-react-app](https://github.com/facebook/create-react-app)
+- [tachyons](https://tachyons.io/)
