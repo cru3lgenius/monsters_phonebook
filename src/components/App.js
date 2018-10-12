@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Header from "./components/Header";
-import MonstersList from "./components/MonstersList";
+import Header from "./Header";
+import MonstersList from "./MonstersList";
 class App extends Component {
   state = {
     monsters: [],

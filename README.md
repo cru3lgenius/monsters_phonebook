@@ -2,6 +2,8 @@
 
 A really small React project that filters a given list of phonebook contacts
 
+[[https://github.com/cru3lgenius/monsters_phonebook/images/MonstersPhonebook.png|alt=monstersphonebook]]
+
 ### Installing
 
 ```
