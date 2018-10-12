@@ -2,7 +2,7 @@
 
 A really small React project that filters a given list of phonebook contacts
 
-![MonstersPhonebook](https://preview.ibb.co/j0eGB9/Monsters-Phonebook.png)
+![MonstersPhonebook](https://preview.ibb.co/f3T1B9/Monsters-Phonebook.png)
 
 ### Installing
 
