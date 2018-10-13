@@ -9,6 +9,7 @@ A really small React and Redux project that filters a given list of phonebook co
 ```
 git clone https://github.com/cru3lgenius/monsters_phonebook
 cd monsters_phonebook
+npm install
 npm start
 ```
 
